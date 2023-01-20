@@ -3,6 +3,7 @@ Welcome to my GitHub profile!
 ## h2
 ### h3
  conflict_test
+ conflictテスト_update-game
 #### h4
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
